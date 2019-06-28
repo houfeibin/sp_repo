@@ -16,12 +16,12 @@ import lombok.NoArgsConstructor;
 
 @AllArgsConstructor
 
-public class User {
+public class Item {
 
-      private Integer id;
+      private Integer id;//21132141
 
-      private String username;//2
+      private String name;
 
-      private String password;//1
+      private Integer number;//374627835672
 
 }
