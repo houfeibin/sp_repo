@@ -28,10 +28,9 @@ public class Order {
 
       private User user;
 
-<<<<<<< HEAD
-      private List<Item> items;//312
-=======
+
       private List<Item> items;
->>>>>>> branch 'master' of https://github.com/houfeibin/sp_repo.git
+
+
 
 }
